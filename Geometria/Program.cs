@@ -16,3 +16,5 @@ Console.WriteLine("Il perimetro del tuo rettangolo è: " + rettangolo1.CalcolaPe
 
 rettangolo1.StampaRettangolo();
 
+rettangolo1.Disegna();
+
